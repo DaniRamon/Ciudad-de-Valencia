@@ -1,7 +1,9 @@
 @charset "UTF-8";
 #arriba {
-	background: #83E2DF;
-	
+	background: lightblue;
+}
+#fotos1 {
+	text-align: center;
 }
 
 h3 {
@@ -12,3 +14,81 @@ h3 {
 	width: 550px;
 	
 }
+
+#img1 {
+	width:120px;
+	height:100px;
+	opacity:1.0;
+}
+
+#img1:hover {
+	opacity:0.5;
+}
+
+#img2 {
+	width:120px;
+	height:100px;
+	opacity:1.0;
+}
+
+#img2:hover {
+	opacity:0.5;
+}
+
+#img3 {
+	width:120px;
+	height:100px;
+	opacity:1.0;
+}
+
+#img3:hover {
+	opacity:0.5;
+}
+
+#img4 {
+	width:120px;
+	height:100px;
+	opacity:1.0;
+}
+
+#img4:hover {
+	opacity:0.5;
+}
+
+#banda {
+	text-align:center;
+	font-size: 12px;
+}
+
+#banda:hover {
+	background-color: lightblue;
+	opacity: 0.5;
+	font-weight: bold;
+	
+}
+
+#azul {
+	border: 6px solid blue;
+}
+
+#medio {
+	background-image: url("valencia_antigua.jpg");
+	box-sizing: content-box;
+	width:950px;
+	height:165px;
+}
+
+#textofoto {
+	color:blue;
+}
+
+#secbajo {
+	text-align:center;
+	background: lightblue;
+}
+
+#imgbajo {
+	width:270px;
+	height:260px;
+}
+
